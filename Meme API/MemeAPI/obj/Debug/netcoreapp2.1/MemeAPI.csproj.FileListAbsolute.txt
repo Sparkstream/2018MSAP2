@@ -1,0 +1,14 @@
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\bin\Debug\netcoreapp2.1\MemeAPI.deps.json
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\bin\Debug\netcoreapp2.1\MemeAPI.runtimeconfig.json
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\bin\Debug\netcoreapp2.1\MemeAPI.runtimeconfig.dev.json
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\bin\Debug\netcoreapp2.1\MemeAPI.dll
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.csprojAssemblyReference.cache
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.csproj.CoreCompileInputs.cache
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.RazorAssemblyInfo.cache
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.RazorAssemblyInfo.cs
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.AssemblyInfoInputs.cache
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.AssemblyInfo.cs
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\bin\Debug\netcoreapp2.1\MemeAPI.pdb
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.dll
+C:\Users\pquac\Documents\MSA Phase 2 Bootcamp\Meme API\MemeAPI\obj\Debug\netcoreapp2.1\MemeAPI.pdb
